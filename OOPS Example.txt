@@ -1,0 +1,48 @@
+OOPS (Object-Oriented Programming) is a way of writing code by modeling it like real-world objects.
+
+Think of it like a Car 🚗
+
+A car is an object
+It has:
+🛑 Properties → color, speed, model
+🛑 Actions → start, stop, brake
+
+In programming, we do the same.
+
+OOPS has 4 main pillars
+1️⃣ Encapsulation 
+
+Wrapping data + methods together
+
+👉 Example:
+You can drive a car but can’t directly access the engine internals.
+Only allowed actions are exposed.
+
+2️⃣ Abstraction 
+
+Show what is needed, hide the complexity
+
+👉 Example:
+You press the accelerator.
+You don’t know how fuel, engine, and gears work inside.
+
+3️⃣ Inheritance 
+
+Child object uses parent properties
+
+👉 Example:
+Electric Car inherits from Car
+It already has wheels, brakes, steering — just adds battery features.
+
+4️⃣ Polymorphism 
+
+Same action, different behavior
+
+👉 Example:
+Start button:
+• Petrol car → engine ignition
+• Electric car → motor start
+
+Same action, different result.
+ 
+This shows OOP helps make systems modular,secure and scalable.
